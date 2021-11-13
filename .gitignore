@@ -1,0 +1,12 @@
+﻿# @2021, bysrkh. Cirebon
+
+# JetBrains file
+.idea
+*.impl
+
+# .NET temporary compiled files directory
+obj
+
+# .NET compiled runnable .NET web app
+bin
+

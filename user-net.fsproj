@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>user_net</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Controllers/WeatherForecastController.fs" />
+    <Compile Include="Program.fs" />
+    <Content Include=".gitignore" />
+  </ItemGroup>
+
+</Project>
